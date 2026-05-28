@@ -1,0 +1,9 @@
+[
+  {
+    "id": "rime_ice",
+    "name": "雾凇拼音",
+    "emoji": true,
+    "target": "iDvel/rime-ice",
+    "license": "LGPL-3.0-only"
+  }
+]
