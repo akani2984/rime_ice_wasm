@@ -19,8 +19,6 @@ const osThemeRef = useOsTheme()
   <my-pwa />
   <n-config-provider :theme="osThemeRef === 'dark' ? darkTheme : null">
     <my-layout>
-      <template>
-      </template>
       <template #content>
         <div style="display: flex; justify-content: flex-end;">
           <a  href="https://github.com/akani2984/rime_ice_wasm">项目源码</a>
